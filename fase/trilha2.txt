@@ -4,10 +4,10 @@
 
 
 H1:
-s1 - E - x
-s2 - R - x
-s3 - E - x
-s4 - O - x
+s1 - E - Atras da casa única na direia - x
+s2 - R - Atras da casa de cima, da direita, do vilarejo da direita - x
+s3 - E - no canto da esquerda em cima - 
+s4 - O - para baixo da árvore da esquerda próxima a pedra grande - Sem
 
 
 Senha 1 = EREO
@@ -18,7 +18,7 @@ Senha 1 = EREO
 
 Fazer mapas - x
 colocado historia 1, 2 e 3 - x
-colocado partes das senhas - 
+colocado partes das senhas - x
 colocado pistas - 
 colocado pistas falsas - 
 colocado mapa - 
