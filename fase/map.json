@@ -213,7 +213,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"historias.tmj"
+                 "value":"historias.json"
                 }],
          "type":"tilelayer",
          "visible":true,
